@@ -16,7 +16,7 @@ We've created `Breeds` and `BreedCard` components, and a `BreedsService` that's 
 1. Wire up an API call to the dogs API using our `BreedsService`, and fetch the **first 12** dog breeds when the `Breeds` component is mounted. You can use the `BreedCard` component to display the breeds.
 2. Implement a loading state for the `Breeds` component. Don't worry too much about any fancy styling, you can just have it say 'Loading Dogs...' on the screen while it is fetching data.
 3. Wire up the 'Load More' button so that it fetches the next batch of dog breeds and adds them on to the list.
-* Feel free to update the styling and create new components or hooks or anything as you see fit.
+> Feel free to update the styling and create new components or hooks or anything as you see fit.
 
 ### Bonuses
 * Improve the code as you see fit, fix any problems you find with the current implementation.
