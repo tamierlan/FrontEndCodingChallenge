@@ -1,6 +1,7 @@
 # Coding Challenge
 
 ### Overview
+---
 Here we have a starter project for you and we want you to finish it. Our app uses the [Dog API](https://thedogapi.com/) to get some data. We want to see a list of dog breeds and have you add pagination. That's pretty much it! We designed this project to not take too long for you (~1hr. ), but give you a chance to show us how you think in code. We didn't do much styling here and aren't too concerned about the look of this project, but if you want to take the opportunity to show off your styling skills, feel free to do so.
 
 ### Getting Set Up
