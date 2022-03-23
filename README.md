@@ -6,7 +6,7 @@ Here we have a starter project for you and we want you to finish it. Our app use
 
 ### Getting Set Up
 ---
-1. First, fork this repo (please make your fork **private**) and clone it to your machine.
+1. First, fork this repo and clone it to your machine.
 2. Run `npm i` to install dependencies.
 3. Get an API key from [Dog API signup page](https://thedogapi.com/signup). The free one is all you need for this project and it should only take a minute to get your key.
 4. Create a file at the top level of the repo called `.env` and give it a property called `REACT_APP_DOGS_API_KEY` and put your API key as the value.
@@ -34,7 +34,7 @@ We've created `Breeds` and `BreedCard` components, and a `BreedsService` that's 
     * Any issues or challenges you had with the code challenge.
     * Anything you'd like to explain about how you implemented your solution. This can be a step-by-step explaining your approach if you'd like.
     * Improvements you would make if you had more time.
-* When you are done with your coding challenge, push it up to your repo, share the private repo with us (we will provide you with our Github ID's), and send us a link so we can pull it down, run it, and take a look at your code.
+* When you are done with your coding challenge, push it up to your repo, share a linke to your fork with us so we can pull it down, run it, and take a look at your code.
 
 ### Notes
 ---
